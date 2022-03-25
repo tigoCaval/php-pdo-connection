@@ -9,9 +9,9 @@ class Universal
     // Database Mysql
     /*private static $database = "mysql:"; 
     private static $host = ""; //insira o host exemplo: localhost:8080. 
-    private static $dbname = "enter database name"; // insira o nome do banco. 
+    private static $dbname = ""; // insira o nome do banco. 
     private static $user = "enter username if any"; // insira o nome de usuário se houver.
-    private static $pass = 0; // insira a senha(password) se houver.
+    private static $pass = ""; // insira a senha(password) se houver.
     private static $dsn;*/
 
     //Database Sqlite
